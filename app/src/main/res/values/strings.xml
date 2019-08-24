@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lesson1</string>
+    <string name="text_on_main_screen">Калькулятор</string>
+    <string name="text_on_main_screen2">Текст</string>
 </resources>
